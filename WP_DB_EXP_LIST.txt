@@ -1,5 +1,9 @@
 /wp-content/plugins/events-made-easy/paypal/scripts/ipn.sql
 /wp-content/plugins/events-made-easy/payment_gateways/paypal/scripts/ipn.sql
+/wp-content/plugins/wysija-newsletters/sql/install.sql
+/wp-content/plugins/wysija-newsletters/sql/uninstall.sql
+/wp-content/plugins/simple-e-commerce-shopping-cart/sql/database.sql
+/wp-content/plugins/simple-e-commerce-shopping-cart/sql/uninstall.sql
 /wp-content/themes/highstand/core/sample/data/masterslider_sliders2.txt
 /wp-content/plugins/caldera-forms/vendor/nilportugues/sql-query-formatter/tests/Resources/expectedQueries.sql
 /wp-content/plugins/orbis/includes/sql/orbis-company-fix-empty-date.sql
