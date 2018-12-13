@@ -1,3 +1,4 @@
+/wp-content/plugins/timetable/dummy-content-files/event_hours.sql
 /wp-content/plugins/events-made-easy/paypal/scripts/ipn.sql
 /wp-content/plugins/events-made-easy/payment_gateways/paypal/scripts/ipn.sql
 /wp-content/plugins/wysija-newsletters/sql/install.sql
