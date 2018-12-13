@@ -1,3 +1,7 @@
+/wp-content/plugins/joebooking/core6/model/db.sql
+/wp-content/plugins/magicmembers/core/libs/third_party/awssdk/lib/cachecore/_sql/mysql.sql
+/wp-content/plugins/magicmembers/core/libs/third_party/awssdk/lib/cachecore/_sql/pgsql.sql
+/wp-content/plugins/magicmembers/core/libs/third_party/awssdk/lib/cachecore/_sql/sqlite3.sql
 /wp-content/plugins/timetable/dummy-content-files/event_hours.sql
 /wp-content/plugins/events-made-easy/paypal/scripts/ipn.sql
 /wp-content/plugins/events-made-easy/payment_gateways/paypal/scripts/ipn.sql
