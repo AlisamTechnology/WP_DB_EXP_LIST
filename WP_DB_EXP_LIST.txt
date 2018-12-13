@@ -20,10 +20,6 @@
 /wp-content/plugins/orbis/includes/sql/select-cumulative-hours-per-project.sql
 /wp-content/plugins/orbis/includes/sql/select-orbis-company-no-date.sql
 /wp-content/plugins/orbis/includes/sql/set-default-ebilling.sql
-/wp-content/plugins/codecanyon-5293356-ajax-store-locator-wordpress/sl_file_download.php?download_file=[FİLENAMEHERE]
-/wp-content/plugins/codecanyon-5293356-ajax-store-locator-wordpress/sl_import/......
-/wp-content/plugins/codecanyon-5293356-ajax-store-locator-wordpress/xcel_export/......
-/wp-content/plugins/codecanyon-5293356-ajax-store-locator-wordpress/xcel_import_result/......
 /wp-content/plugins/codecanyon-5293356-ajax-store-locator-wordpress/db_dump.sql
 /wp-content/plugins/ajax-store-locator-wordpress/db_dump.sql
 /wp-content/plugins/ad-buttons/p.sql
