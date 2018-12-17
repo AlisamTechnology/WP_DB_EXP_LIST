@@ -1,3 +1,7 @@
+## Wordpress data base backup exploits
+/wp-content/uploads/wp-s3-database-backup.sql
+/wp-content/uploads/wp-s3-backups.zip
+/wp-content/plugins/lumise/woo/sample/database.txt
 /wp-content/plugins/joebooking/core6/model/db.sql
 /wp-content/plugins/magicmembers/core/libs/third_party/awssdk/lib/cachecore/_sql/mysql.sql
 /wp-content/plugins/magicmembers/core/libs/third_party/awssdk/lib/cachecore/_sql/pgsql.sql
