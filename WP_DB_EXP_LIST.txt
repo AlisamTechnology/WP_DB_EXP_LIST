@@ -1,3 +1,4 @@
+## Copy@right Alisam Technology 2018
 ## Wordpress data base backup exploits
 /wp-content/uploads/wp-s3-database-backup.sql
 /wp-content/uploads/wp-s3-backups.zip
